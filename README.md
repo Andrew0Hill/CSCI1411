@@ -1,3 +1,4 @@
 CSCI1411
-Test for commit
 ========
+
+This repo contains files from CSC 1411 projects.
